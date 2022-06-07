@@ -1,3 +1,5 @@
+package `ch08-1`
+
 
 //class Person (val name : String, val age : Int){
 //  override def toString = getClass.getName() + "[ name = " +name +", age =" +age+ "]"

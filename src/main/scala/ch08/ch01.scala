@@ -1,4 +1,5 @@
 package ch08
+
 class Person{
   var name = ""
   protected [this] var age = 0

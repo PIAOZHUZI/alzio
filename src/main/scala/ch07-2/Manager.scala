@@ -1,4 +1,4 @@
-package com.alzio.impatient
+package `ch07-2`
 
 import java.lang
 
