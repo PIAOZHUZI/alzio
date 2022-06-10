@@ -1,7 +1,7 @@
 package ch10_4
 
 object ch02 extends App{
-
+/*
   try{
     val acct = new SavingsAccount
     acct.withdraw(100)
@@ -39,4 +39,6 @@ object ch02 extends App{
       else balance -= amount
     }
   }
+
+ */
 }
